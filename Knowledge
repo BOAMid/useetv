@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",National Geographic HD
+rtp://239.1.1.243:9432
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",Natgeo Wild HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_history_big.png" group-title="Knowledge",History Channel HD
+rtp://@239.1.1.23:8112
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",CGTN Documentary HD
+rtp://@239.1.2.4:7998
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Knowledge",Discovery Channel HD
+rtp://@239.1.2.78:7984
