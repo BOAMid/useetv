@@ -44,3 +44,5 @@ rtp://@239.1.1.128:9218
 rtp://@239.1.2.74:8420
 #EXTINF:-1 tvg-logo="http://10.6.32.25:8080/iptvepg/images/markurl/mark_1583208610196.png" group-title="Local Channel",Jowo
 rtp://@239.1.2.6:8000
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_dunialain_big.png" group-title="Gen Entertainment",Dunia Lain
+rtp://@239.1.1.149:8868
