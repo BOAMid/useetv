@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sport",Bein1
+rtp://@239.1.1.217:9204
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sport",Bein3
+rtp://@239.1.1.221:9300
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_fight_big1.png" group-title="Sport",Fight Sport
+rtp://@239.1.1.177:9036
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_nba_big1.png" group-title="Sport",NBA TV
+rtp://@239.1.1.49:8268
