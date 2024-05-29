@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeo_big.png" group-title="Knowledge",National Geographic
-rtp://@239.1.1.169:8988
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_natgeowild_big.png" group-title="Knowledge",Natgeo Wild
-rtp://@239.1.1.35:8184
 #EXTINF:-1 tvg-logo="http://i.ibb.co/JnVd6cG/crimeinvestigation.png" group-title="Knowledge",Crime & Investigation
 rtp://@239.1.1.59:8328
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_cgtndocumentary_big1.png" group-title="Knowledge",CGTN Documentary
@@ -12,5 +8,3 @@ rtp://@239.1.1.121:8700
 rtp://@239.1.1.57:8316
 #EXTINF:-1 tvg-logo="http://i.ibb.co/563fbzN/pandatv.png" group-title="Knowledge",Panda TV
 rtp://@239.1.1.208:9502
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_discovery_big.png" group-title="Knowledge",Discovery
-rtp://@239.1.2.30:8154
