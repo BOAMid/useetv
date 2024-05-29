@@ -22,7 +22,7 @@ rtp://@239.1.1.17:8076
 rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="Local Channel",Kompas TV
 rtp://@239.1.1.197:9156
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",Berita Satu
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="Local Channel",Btv
 rtp://@239.1.1.183:9072
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_jaktv_big1.png" group-title="Local Channel",Jak TV
 rtp://@239.1.1.107:8616
